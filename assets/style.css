@@ -1,0 +1,51 @@
+#start-button {
+    height: 300px;
+    width: 600px;
+    margin-left: 660px;
+    opacity: 0.3;
+}
+
+#start-button:hover {
+    opacity: 1;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content-container {
+    background-color: lightgrey;
+    width: 600px;
+    margin-left: 660px;
+    text-align: center;
+}
+
+#submit-button {
+    margin-top: 30px;
+}
+
+
+
+#time-remaining {
+    text-align: center;
+    font-size: 150%;
+    color: red;
+    font-weight: bolder;
+
+}
+
+body {
+    background-image: url(https://i1.wp.com/www.republicct.com/wp-content/uploads/2018/02/Copy-of-TRIVIA-NIGHT-2.jpg?fit=1200%2C675);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+
+section {
+    background-color: lightgray;
+}
+
+.jumbotron {
+    background-color:#FF4B4B;
+}
